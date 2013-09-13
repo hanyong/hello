@@ -1,4 +1,4 @@
 hello
 
-![a.png](a.png)
+[[a.png]]
 
