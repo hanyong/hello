@@ -2,3 +2,5 @@ hello
 
 [[a.png]]
 
+[[hello]]
+
